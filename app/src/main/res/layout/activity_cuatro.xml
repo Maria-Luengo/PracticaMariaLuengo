@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layoutCuatro"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Cuatro">
+
+    <TextView
+        android:id="@+id/txtGracias"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="75dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/font1"
+        android:textAlignment="center"
+        android:lineSpacingExtra="10dp"
+        android:text="¡Muchas \n gracias!"
+        android:textColor="@color/micolor1"
+        />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="20dp"
+        android:text="¿Te ha gustado?"/>
+
+    <TextView
+        android:id="@+id/like"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="150dp"
+        android:textAlignment="center"
+        android:lineSpacingExtra="10dp"
+        android:text="👌"
+        android:visibility="invisible"
+        />
+</LinearLayout>

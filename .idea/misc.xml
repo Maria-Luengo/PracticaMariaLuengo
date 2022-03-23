@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_cuatro.xml" value="0.1" />
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_tres.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_tresok.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/menu/menu.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/PracticaMariaLuengo/app/src/main/res/layout/activity_main.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_cumple.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_cumple_final.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_dos.xml" value="0.19375" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_fiestas.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_fiestas_final.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo/app/src/main/res/layout/activity_tres.xml" value="0.5" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/drawable/boton_redondo.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/drawable/btn_redondo.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/layout/activity_cuatro.xml" value="0.1" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/layout/activity_dos.xml" value="0.30520833333333336" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/layout/activity_tres.xml" value="0.32447916666666665" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/layout/activity_tres_ok.xml" value="0.25" />
+        <entry key="..\:/Users/Maria333/AndroidStudioProjects/13_PracticaMariaLuengo_clase/app/src/main/res/menu/menu.xml" value="0.30520833333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

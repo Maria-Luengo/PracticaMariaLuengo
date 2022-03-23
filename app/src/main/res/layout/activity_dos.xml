@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<LinearLayout
+    android:id="@+id/layoutDos"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Dos">
+
+    <EditText
+        android:id="@+id/edTxt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="30dp"
+        android:hint="Escribe tu texto" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:text="Switch" />
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:text="Selecciona tipografía"/>
+   <RadioGroup
+       android:id="@+id/radioGroup1"
+       android:layout_marginLeft="100dp"
+       android:layout_marginBottom="20dp"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+       <RadioButton
+           android:id="@+id/radio1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textSize="20dp"
+           android:fontFamily="@font/font1"
+           android:text="FUENTE_1"/>
+       <RadioButton
+           android:id="@+id/radio2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textSize="20dp"
+           android:fontFamily="@font/font2"
+           android:text="FUENTE_2"/>
+       <RadioButton
+           android:id="@+id/radio3"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textSize="30dp"
+           android:fontFamily="@font/font3"
+           android:text="FUENTE_3"/>
+       <RadioButton
+           android:id="@+id/radio4"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textSize="20dp"
+           android:fontFamily="@font/font4"
+           android:text="FUENTE_4"/>
+       <RadioButton
+           android:id="@+id/radio5"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textSize="20dp"
+           android:fontFamily="@font/font5"
+           android:text="FUENTE_5"/>
+   </RadioGroup>
+
+
+
+    <Button
+        android:id="@+id/btnAplicar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="APLICAR"/>
+    <Button
+        android:id="@+id/btnVolver1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VOLVER A SELECCIONAR TEMA"/>
+
+
+</LinearLayout>
+</ScrollView>
